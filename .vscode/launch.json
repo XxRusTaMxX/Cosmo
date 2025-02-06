@@ -15,7 +15,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open Floating Letters",
-            "file": "d:\\Vs Code\\Web Development\\Cosmo\\FloatingLetters\\float.html"
+            "file": "d:\\Vs Code\\Web Development\\Cosmo\\FloatingLetters\\index.html"
         },
         {
             "type": "chrome",
@@ -28,7 +28,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open Icon",
-            "file": "d:\\Vs Code\\Web Development\\Cosmo\\Icon\\icon.html"
+            "file": "d:\\Vs Code\\Web Development\\Cosmo\\Icon\\index.html"
         },
         {
             "type": "chrome",

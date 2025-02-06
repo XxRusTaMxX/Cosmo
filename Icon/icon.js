@@ -49,7 +49,7 @@ document.addEventListener("mousemove", e => {
 audioctr = 0;
 document.addEventListener("click", function (event) {
   const bulletURLs = [
-    "../pictures/what-are-aventurines-coins-tokens-v0-mo7ozklcdnvc1.webp"
+    "../pictures/Aventurine_Coin.webp"
   ];
 
   // Get the coordinates of the pointer over the DOM
@@ -60,7 +60,7 @@ document.addEventListener("click", function (event) {
   const hole = document.createElement("img");
   hole.className = "hole";
   hole.src =
-    "../pictures/what-are-aventurines-coins-tokens-v0-mo7ozklcdnvc1.webp";
+    "../pictures/Aventurine_Coin.webp";
   hole.alt = "";
 
   // Set the position of the div based on pointer coordinates

@@ -1,7 +1,6 @@
 html {
-  height: 50vh;
-  width: 50vh;;
-  oveflow: hidden;
+  height: 100%;
+  overflow: hidden;
   font-size: 0.7rem;
 }
 
@@ -10,7 +9,8 @@ body {
   justify-content: center;
   align-items: center;
   perspective: 1000px;
-  oveflow: hidden;
+  height: 100%;
+  overflow: hidden;
 }
 
 .card {

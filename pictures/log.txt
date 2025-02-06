@@ -1,0 +1,319 @@
+[2025.02.01 14:46:36] Launched version: 5010003, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2025.02.01 14:46:36] Executable dir: C:/Users/Administrator/Downloads/, name: AyuGram.exe
+[2025.02.01 14:46:36] Initial working dir: C:/Users/Administrator/Downloads/
+[2025.02.01 14:46:36] Working dir: C:/Users/Administrator/Downloads/
+[2025.02.01 14:46:36] Command line: C:\Users\Administrator\Downloads\AyuGram.exe
+[2025.02.01 14:46:36] Executable path before check: C:/Users/Administrator/Downloads/AyuGram.exe
+[2025.02.01 14:46:36] Logs started
+[2025.02.01 14:46:36] AppUserModelID: AyuGram.AyuGramDesktop.12a92c429b93276edf324ec3128f0f8e
+[2025.02.01 14:46:36] Using DirectX compiler 'C:\WINDOWS\SYSTEM32\d3dcompiler_47.dll'.
+[2025.02.01 14:46:36] Connecting local socket to Global\3a1439849e078923dccb8bb4186e0b56-{87A94AB0-E370-4cde-98D3-ACC110C59666}...
+[2025.02.01 14:46:36] Socket connected, this is not the first application instance, sending show command...
+[2025.02.01 14:46:36] Show command written, waiting response...
+[2025.02.01 14:46:36] Moved logging from 'C:/Users/Administrator/Downloads/log_start5.txt' to 'C:/Users/Administrator/Downloads/log.txt'!
+[2025.02.01 14:46:36] Old start log 'log_start0.txt' found, deleted: [TRUE]
+[2025.02.01 14:46:36] Old start log 'log_start1.txt' found, deleted: [TRUE]
+[2025.02.01 14:46:36] Old start log 'log_start2.txt' found, deleted: [TRUE]
+[2025.02.01 14:46:36] Old start log 'log_start3.txt' found, deleted: [TRUE]
+[2025.02.01 14:46:36] Old start log 'log_start4.txt' found, deleted: [TRUE]
+[2025.02.01 14:46:36] Old start log 'log_start5.txt' found, deleted: [FALSE]
+[2025.02.01 14:46:36] Old start log 'log_start6.txt' found, deleted: [FALSE]
+[2025.02.01 14:46:36] Opened 'C:/Users/Administrator/Downloads/tdata/working' for reading, the previous AyuGram Desktop launch was not finished properly :( Crash log size: 0
+[2025.02.01 14:46:36] Global devicePixelRatio: 1
+[2025.02.01 14:46:36] QT_DPI_ADJUSTMENT_POLICY: AdjustDpi
+[2025.02.01 14:46:36] Primary screen DPI: 96, Base: 96.
+[2025.02.01 14:46:36] Computed screen scale: 100
+[2025.02.01 14:46:36] DevicePixelRatio: 1
+[2025.02.01 14:46:36] ScreenScale: 100
+[2025.02.01 14:46:36] Media Info: Type Playback, default: {0.0.0.00000000}.{3486d8cb-9c8c-4b30-8570-838f2420a91b}, list: { "USB Наушники (USB Audio Device)" <{0.0.0.00000000}.{1e0f93f9-e63e-4950-97e1-ebe5d68543de}>, "3.5мм порт (Realtek(R) Audio)" <{0.0.0.00000000}.{2a0e83a7-8634-4ca3-9a58-d29f4dcd6549}>, "P27FBA-RX (NVIDIA High Definition Audio)" <{0.0.0.00000000}.{3486d8cb-9c8c-4b30-8570-838f2420a91b}>, "NVIDIA Output (NVIDIA High Definition Audio)" <{0.0.0.00000000}.{449c2b26-780b-4dd9-9851-79c13c6fd3b8}>, "Динамики (USB Audio Device)" <{0.0.0.00000000}.{a2d607b2-b935-4872-bb07-bd9481630759}>, "NVIDIA Output (NVIDIA High Definition Audio)" <{0.0.0.00000000}.{b9e13cb1-86bc-4955-933d-c2c4239ba682}>, "NVIDIA Output (NVIDIA High Definition Audio)" <{0.0.0.00000000}.{bace05bd-f30b-4123-abf4-e1f6bee62860}>, "Колонки ноутбука (Realtek(R) Audio)" <{0.0.0.00000000}.{c0a3c547-a3ef-4055-bcb9-6afa772e34f9}>, "Динамики (AB13X USB Audio)" <{0.0.0.00000000}.{e6a85d71-5bb9-4932-b147-6913eeb22a5d}>, "Динамики (AB13X USB Audio)" <{0.0.0.00000000}.{f73ff334-d434-4c3f-bae3-b2fbd568b572}> }, full list refresh: false
+[2025.02.01 14:46:36] Media Info: Type Capture, default: {0.0.1.00000000}.{f7c476f4-87ad-4850-aa8c-ceaf5cee58dd}, list: { "Microphone (AB13X USB Audio)" <{0.0.1.00000000}.{15e39ceb-ca74-4d85-a92c-2d3ae8b8dd29}>, "Стерео микшер (Realtek(R) Audio)" <{0.0.1.00000000}.{2403934e-26d3-4f5d-ab50-03f31ecc4a02}>, "Микрофон (USB Audio Device)" <{0.0.1.00000000}.{352c4a1d-ed71-4927-a977-05bc66ccc4e7}>, "Гнездо для подключения микрофона (Realtek(R) Audio)" <{0.0.1.00000000}.{58f9e5f7-201b-4138-a06b-98854641a437}>, "Набор микрофонов (Технология Intel® Smart Sound для цифровых микрофонов)" <{0.0.1.00000000}.{67996659-35b2-4141-9886-81ce207c28d9}>, "Микрофон (AB13X USB Audio)" <{0.0.1.00000000}.{87b2968a-6c3f-4733-8b7d-3abb7885a826}>, "Microphone (USB Audio Device)" <{0.0.1.00000000}.{c1917213-8254-4ee3-a437-481cb539d10e}>, "Лин. вход (Realtek(R) Audio)" <{0.0.1.00000000}.{f7c476f4-87ad-4850-aa8c-ceaf5cee58dd}> }, full list refresh: false
+[2025.02.01 14:46:36] Media Info: Type Camera, default: \\?\usb#vid_0c45&pid_6720&mi_00#6&4f22fb4&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global, list: { "Integrated Webcam" <\\?\usb#vid_0c45&pid_6720&mi_00#6&4f22fb4&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global> }, full list refresh: true
+[2025.02.01 14:46:36] App Info: reading settings...
+[2025.02.01 14:46:36] App Info: reading encrypted settings...
+[2025.02.01 14:46:36] Lang Info: Loaded cached, keys: 8432
+[2025.02.01 14:46:36] Font: from ':/gui/fonts/OpenSans-Regular.ttf' loaded 'Open Sans'
+[2025.02.01 14:46:36] Font: from ':/gui/fonts/OpenSans-Italic.ttf' loaded 'Open Sans'
+[2025.02.01 14:46:36] Font: from ':/gui/fonts/OpenSans-SemiBold.ttf' loaded 'Open Sans Semibold'
+[2025.02.01 14:46:36] Font: from ':/gui/fonts/OpenSans-SemiBoldItalic.ttf' loaded 'Open Sans Semibold'
+[2025.02.01 14:46:36] Font: from ':/gui/fonts/Vazirmatn-UI-NL-Regular.ttf' loaded 'Vazirmatn UI NL'
+[2025.02.01 14:46:36] Font: from ':/gui/fonts/Vazirmatn-UI-NL-SemiBold.ttf' loaded 'Vazirmatn UI NL SemiBold'
+[2025.02.01 14:46:36] RCManager: requesting map
+[2025.02.01 14:46:37] OpenAL Logging Level: (not set)
+[2025.02.01 14:46:37] App Info: reading accounts info...
+[2025.02.01 14:46:37] App Info: reading encrypted info...
+[2025.02.01 14:46:37] App Info: reading map...
+[2025.02.01 14:46:37] App Info: reading encrypted map...
+[2025.02.01 14:46:37] App Info: reading encrypted user settings...
+[2025.02.01 14:46:37] App Info: encrypted user settings read.
+[2025.02.01 14:46:37] App Info: reading encrypted mtp data...
+[2025.02.01 14:46:37] MTP Info: read keys, current: 4, to destroy: 0
+[2025.02.01 14:46:37] Map read time: 18
+[2025.02.01 14:46:37] App Info: reading encrypted mtp config...
+[2025.02.01 14:46:37] Export Info: Destroy top bar by controller removal.
+[2025.02.01 14:46:37] OpenGL: Using custom 'gpu_driver_bug_list.json'.
+[2025.02.01 14:46:37] OpenGL Profile: OpenGLES.
+[2025.02.01 14:46:37] OpenGL Renderer: ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 Laptop GPU Direct3D11 vs_5_0 ps_5_0, D3D11-32.0.15.6636)
+[2025.02.01 14:46:37] OpenGL Vendor: Google Inc. (NVIDIA)
+[2025.02.01 14:46:37] OpenGL Version: OpenGL ES 3.0.0 (ANGLE 2.1.10 git hash: e3f59e8d0c3e)
+[2025.02.01 14:46:37] OpenGL Extensions: GL_EXT_instanced_arrays, GL_EXT_debug_marker, GL_EXT_clip_cull_distance, GL_EXT_color_buffer_half_float, GL_OES_sample_variables, GL_OES_standard_derivatives, GL_ANGLE_copy_texture_3d, GL_ANGLE_get_tex_level_parameter, GL_OES_EGL_image_external_essl3, GL_EXT_texture_compression_s3tc_srgb, GL_EXT_polygon_offset_clamp, GL_OES_compressed_ETC2_sRGB8_texture, GL_EXT_sRGB, GL_EXT_unpack_subimage, GL_WEBGL_video_texture, GL_OES_vertex_array_object, GL_ANGLE_framebuffer_multisample, GL_EXT_disjoint_timer_query, GL_OVR_multiview, GL_EXT_map_buffer_range, GL_ANGLE_shader_pixel_local_storage, GL_EXT_draw_buffers_indexed, GL_ANGLE_clip_cull_distance, GL_OES_draw_buffers_indexed, GL_EXT_frag_depth, GL_EXT_read_format_bgra, GL_CHROMIUM_lose_context, GL_EXT_blend_minmax, GL_OES_texture_half_float_linear, GL_EXT_depth_clamp, GL_OES_compressed_EAC_R11_signed_texture, GL_ANGLE_shader_pixel_local_storage_coherent, GL_EXT_texture_rg, GL_CHROMIUM_copy_compressed_texture, GL_EXT_shader_texture_lod, GL_EXT_texture_mirror_clamp_to_edge, GL_EXT_float_blend, GL_ANGLE_base_vertex_base_instance, GL_OES_compressed_ETC2_RGB8_texture, GL_NV_pack_subimage, GL_OES_compressed_EAC_R11_unsigned_texture, GL_OES_texture_npot, GL_OES_texture_stencil8, GL_NV_shader_noperspective_interpolation, GL_EXT_texture_compression_bptc, GL_CHROMIUM_sync_query, GL_OES_texture_float_linear, GL_ANGLE_lossy_etc_decode, GL_KHR_debug, GL_EXT_draw_buffers, GL_OES_depth24, GL_ANGLE_texture_compression_dxt3, GL_KHR_parallel_shader_compile, GL_NV_EGL_stream_consumer_external, GL_ANGLE_memory_size, GL_OES_texture_float, GL_NV_pixel_buffer_object, GL_OES_compressed_EAC_RG11_signed_texture, GL_EXT_EGL_image_external_wrap_modes, GL_OES_compressed_ETC2_sRGB8_alpha8_texture, GL_EXT_texture_format_BGRA8888, GL_EXT_texture_storage, GL_OES_compressed_ETC2_punchthroughA_RGBA8_texture, GL_OES_compressed_ETC2_punchthroughA_sRGB8_alpha_texture, GL_OES_mapbuffer, GL_APPLE_clip_distance, GL_CHROMIUM_copy_texture, GL_EXT_texture_border_clamp, GL_EXT_multi_draw_indirect, GL_OES_shader_multisample_interpolation, GL_EXT_texture_compression_dxt1, GL_OVR_multiview2, , GL_EXT_multisampled_render_to_texture, GL_CHROMIUM_bind_uniform_location, GL_EXT_texture_filter_anisotropic, GL_ANGLE_depth_texture, GL_AMD_performance_monitor, GL_OES_fbo_render_mipmap, GL_ANGLE_base_vertex_base_instance_shader_builtin, GL_OES_get_program_binary, GL_ANGLE_pack_reverse_row_order, GL_ANGLE_provoking_vertex, GL_EXT_base_instance, GL_EXT_clip_control, GL_EXT_texture_compression_rgtc, GL_OES_EGL_image, GL_ANGLE_polygon_mode, GL_ANGLE_program_cache_control, GL_ANGLE_texture_usage, GL_ANGLE_stencil_texturing, GL_OES_depth32, GL_ANGLE_request_extension, GL_OES_compressed_ETC2_RGBA8_texture, GL_ANGLE_translated_shader_source, GL_EXT_render_snorm, GL_ANGLE_robust_client_memory, GL_ANGLE_texture_multisample, GL_EXT_debug_label, GL_OES_compressed_EAC_RG11_unsigned_texture, GL_OES_texture_border_clamp, GL_EXT_texture_norm16, GL_ANGLE_multi_draw, GL_CHROMIUM_bind_generates_resource, GL_OES_element_index_uint, GL_ANGLE_texture_compression_dxt5, GL_OES_draw_elements_base_vertex, GL_OES_packed_depth_stencil, GL_ANGLE_framebuffer_blit, GL_ANGLE_renderability_validation, GL_NV_framebuffer_blit, GL_ANGLE_instanced_arrays, GL_EXT_draw_elements_base_vertex, GL_EXT_blend_func_extended, GL_OES_texture_half_float, GL_ANGLE_get_serialized_context_string, GL_EXT_discard_framebuffer, GL_EXT_occlusion_query_boolean, GL_EXT_robustness, GL_EXT_color_buffer_float, GL_EXT_conservative_depth, GL_OES_EGL_image_external, GL_OES_rgb8_rgba8, GL_OES_surfaceless_context, GL_ANGLE_multiview_multisample, GL_EXT_texture_type_2_10_10_10_REV, GL_NV_fence, GL_ANGLE_client_arrays
+[2025.02.01 14:46:37] EGL Extensions: EGL_EXT_create_context_robustness, EGL_ANGLE_d3d_share_handle_client_buffer, EGL_ANGLE_d3d_texture_client_buffer, EGL_ANGLE_surface_d3d_texture_2d_share_handle, EGL_ANGLE_query_surface_pointer, EGL_ANGLE_window_fixed_size, EGL_ANGLE_keyed_mutex, EGL_ANGLE_surface_orientation, EGL_ANGLE_direct_composition, EGL_ANGLE_windows_ui_composition, EGL_NV_post_sub_buffer, EGL_KHR_create_context, EGL_KHR_image, EGL_KHR_image_base, EGL_KHR_gl_texture_2D_image, EGL_KHR_gl_texture_cubemap_image, EGL_KHR_gl_renderbuffer_image, EGL_KHR_get_all_proc_addresses, EGL_KHR_stream, EGL_KHR_stream_consumer_gltexture, EGL_NV_stream_consumer_gltexture_yuv, EGL_ANGLE_stream_producer_d3d_texture, EGL_ANGLE_create_context_webgl_compatibility, EGL_CHROMIUM_create_context_bind_generates_resource, EGL_CHROMIUM_sync_control, EGL_EXT_pixel_format_float, EGL_KHR_surfaceless_context, EGL_ANGLE_display_texture_share_group, EGL_ANGLE_display_semaphore_share_group, EGL_ANGLE_create_context_client_arrays, EGL_ANGLE_program_cache_control, EGL_ANGLE_robust_resource_initialization, EGL_ANGLE_create_context_extensions_enabled, EGL_ANDROID_blob_cache, EGL_ANDROID_recordable, EGL_ANGLE_image_d3d11_texture, EGL_ANGLE_create_context_backwards_compatible, EGL_KHR_no_config_context, EGL_KHR_create_context_no_error, EGL_KHR_reusable_sync, 
+[2025.02.01 14:46:37] OpenGL: QOpenGLContext created, version: 3.3.
+[2025.02.01 14:46:37] OpenGL: [TRUE] (Window)
+[2025.02.01 14:46:48] RCManager: Loaded 20 developers, 15 channels
+[2025.02.01 14:48:45] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 14:48:47] Audio Info: Closing audio playback device.
+[2025.02.01 14:49:28] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 14:49:30] Audio Info: Closing audio playback device.
+[2025.02.01 15:22:59] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 15:23:05] Audio Info: Closing audio playback device.
+[2025.02.01 15:46:36] RCManager: requesting map
+[2025.02.01 15:46:48] RCManager: Loaded 20 developers, 15 channels
+[2025.02.01 16:46:36] RCManager: requesting map
+[2025.02.01 16:46:48] RCManager: Loaded 20 developers, 15 channels
+[2025.02.01 16:49:52] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 16:49:54] Audio Info: Closing audio playback device.
+[2025.02.01 16:49:55] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 16:49:59] Audio Info: Closing audio playback device.
+[2025.02.01 16:50:09] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 16:50:11] Audio Info: Closing audio playback device.
+[2025.02.01 17:03:02] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 17:03:04] Audio Info: Closing audio playback device.
+[2025.02.01 17:05:39] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 17:05:39] OpenGL: [TRUE] (Window)
+[2025.02.01 17:05:48] Call Info: Creating instance with version '8.0.0', allowP2P: [FALSE]
+[2025.02.01 17:05:48] Call Error: Unexpected state in handleStateChange: 4
+[2025.02.01 17:05:48] Call Error: Unexpected state in handleStateChange: 4
+[2025.02.01 17:05:48] Call Error: Unexpected state in handleStateChange: 4
+[2025.02.01 17:05:49] Audio Info: Closing audio playback device.
+[2025.02.01 17:07:30] Streaming Error: Error in avformat_open_input (code: -542398533, text: Generic error in an external library).
+[2025.02.01 17:14:51] Skipping message, because it is already in blocks!
+[2025.02.01 17:20:02] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 17:20:04] Audio Info: Closing audio playback device.
+[2025.02.01 17:46:36] RCManager: requesting map
+[2025.02.01 17:46:48] RCManager: Loaded 20 developers, 15 channels
+[2025.02.01 18:19:45] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 18:19:47] Audio Info: Closing audio playback device.
+[2025.02.01 18:24:44] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 18:24:46] Audio Info: Closing audio playback device.
+[2025.02.01 18:43:53] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 18:43:55] Audio Info: Closing audio playback device.
+[2025.02.01 18:46:36] RCManager: requesting map
+[2025.02.01 18:46:48] RCManager: Loaded 20 developers, 15 channels
+[2025.02.01 18:54:29] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 18:54:31] Audio Info: Closing audio playback device.
+[2025.02.01 19:32:49] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 19:32:51] Audio Info: Closing audio playback device.
+[2025.02.01 19:32:51] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 19:32:53] Audio Info: Closing audio playback device.
+[2025.02.01 19:46:36] RCManager: requesting map
+[2025.02.01 19:46:48] RCManager: Loaded 20 developers, 15 channels
+[2025.02.01 20:07:25] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 20:07:27] Audio Info: Closing audio playback device.
+[2025.02.01 20:24:41] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 20:24:43] Audio Info: Closing audio playback device.
+[2025.02.01 20:26:45] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 20:26:47] Audio Info: Closing audio playback device.
+[2025.02.01 20:32:22] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 20:32:24] Audio Info: Closing audio playback device.
+[2025.02.01 20:46:36] RCManager: requesting map
+[2025.02.01 20:46:48] RCManager: Loaded 20 developers, 15 channels
+[2025.02.01 20:47:52] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 20:47:54] Audio Info: Closing audio playback device.
+[2025.02.01 20:47:59] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 20:48:01] Audio Info: Closing audio playback device.
+[2025.02.01 20:51:05] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 20:51:07] Audio Info: Closing audio playback device.
+[2025.02.01 21:22:51] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 21:22:53] Audio Info: Closing audio playback device.
+[2025.02.01 21:46:36] RCManager: requesting map
+[2025.02.01 21:46:48] RCManager: Loaded 20 developers, 15 channels
+[2025.02.01 22:46:36] RCManager: requesting map
+[2025.02.01 22:46:48] RCManager: Loaded 20 developers, 15 channels
+[2025.02.01 23:04:28] RPC Error: request 458 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.01 23:04:28] RPC Error: request 470 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.01 23:04:30] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 23:04:35] Audio Info: Closing audio playback device.
+[2025.02.01 23:21:43] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 23:21:45] Audio Info: Closing audio playback device.
+[2025.02.01 23:33:47] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.01 23:33:49] Audio Info: Closing audio playback device.
+[2025.02.01 23:46:36] RCManager: requesting map
+[2025.02.01 23:46:48] RCManager: Loaded 20 developers, 15 channels
+[2025.02.02 00:14:48] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 00:14:50] Audio Info: Closing audio playback device.
+[2025.02.02 00:15:59] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 00:16:01] Audio Info: Closing audio playback device.
+[2025.02.02 00:26:57] RPC Error: request 646 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:26:57] RPC Error: request 645 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:26:57] RPC Error: request 648 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:26:57] RPC Error: request 651 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:26:57] RPC Error: request 649 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:26:57] RPC Error: request 644 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:26:57] RPC Error: request 647 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:26:57] RPC Error: request 650 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:26:57] Streaming Error: Error in avformat_open_input (code: -1094995529, text: Invalid data found when processing input).
+[2025.02.02 00:30:50] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 00:30:52] Audio Info: Closing audio playback device.
+[2025.02.02 00:30:53] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 00:30:55] Audio Info: Closing audio playback device.
+[2025.02.02 00:31:10] RPC Error: request 747 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:10] RPC Error: request 744 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:10] RPC Error: request 749 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:10] RPC Error: request 743 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:10] RPC Error: request 742 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:10] RPC Error: request 748 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:10] RPC Error: request 745 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:10] RPC Error: request 746 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:11] RPC Error: request 750 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:12] RPC Error: request 787 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:12] RPC Error: request 780 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:12] RPC Error: request 781 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:12] RPC Error: request 783 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:12] RPC Error: request 782 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:12] RPC Error: request 784 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:12] RPC Error: request 785 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:12] RPC Error: request 786 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:13] RPC Error: request 832 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:13] RPC Error: request 831 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:15] RPC Error: request 836 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:31:31] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 00:31:33] Audio Info: Closing audio playback device.
+[2025.02.02 00:43:10] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 00:43:12] Audio Info: Closing audio playback device.
+[2025.02.02 00:46:36] RCManager: requesting map
+[2025.02.02 00:46:48] RCManager: Loaded 20 developers, 15 channels
+[2025.02.02 00:47:44] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 00:47:46] Audio Info: Closing audio playback device.
+[2025.02.02 00:47:55] App Info: writing encrypted user settings...
+[2025.02.02 00:47:59] RPC Error: request 921 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.02.02 00:47:59] Skipping message, because it is already in blocks!
+[2025.02.02 01:07:25] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 01:07:26] Audio Info: Closing audio playback device.
+[2025.02.02 01:08:15] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 01:08:16] Audio Info: Closing audio playback device.
+[2025.02.02 01:08:43] Skipping message, because it is already in blocks!
+[2025.02.02 01:15:21] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 01:15:22] Audio Info: Closing audio playback device.
+[2025.02.02 01:15:32] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 01:15:34] Audio Info: Closing audio playback device.
+[2025.02.02 01:16:46] App Info: writing encrypted user settings...
+[2025.02.02 01:16:52] Skipping message, because it is already in blocks!
+[2025.02.02 01:17:49] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 01:17:51] Audio Info: Closing audio playback device.
+[2025.02.02 01:18:49] Skipping message, because it is already in blocks!
+[2025.02.02 01:18:51] Skipping message, because it is already in blocks!
+[2025.02.02 01:20:34] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 01:20:36] Audio Info: Closing audio playback device.
+[2025.02.02 01:21:30] App Info: writing encrypted user settings...
+[2025.02.02 01:23:32] BotWebView Error: Post event "fullscreen_changed" on crashed webview.
+[2025.02.02 01:23:32] BotWebView Error: Post event "safe_area_changed" on crashed webview.
+[2025.02.02 01:23:32] BotWebView Error: Post event "content_safe_area_changed" on crashed webview.
+[2025.02.02 01:24:00] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 01:24:02] Audio Info: Closing audio playback device.
+[2025.02.02 01:24:49] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 01:24:51] Audio Info: Closing audio playback device.
+[2025.02.02 01:28:42] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 01:28:44] Audio Info: Closing audio playback device.
+[2025.02.02 01:32:42] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 01:32:44] Audio Info: Closing audio playback device.
+[2025.02.02 01:32:44] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 01:32:46] Audio Info: Closing audio playback device.
+[2025.02.02 01:38:06] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 01:38:08] Audio Info: Closing audio playback device.
+[2025.02.02 01:46:36] RCManager: requesting map
+[2025.02.02 01:46:48] RCManager: Loaded 20 developers, 15 channels
+[2025.02.02 02:08:25] Skipping message, because it is already in blocks!
+[2025.02.02 02:08:29] Skipping message, because it is already in blocks!
+[2025.02.02 02:10:30] Skipping message, because it is already in blocks!
+[2025.02.02 02:46:36] RCManager: requesting map
+[2025.02.02 02:46:48] RCManager: Loaded 20 developers, 15 channels
+[2025.02.02 02:50:36] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 02:50:38] Audio Info: Closing audio playback device.
+[2025.02.02 02:52:45] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 02:52:47] Audio Info: Closing audio playback device.
+[2025.02.02 03:14:12] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 03:14:14] Audio Info: Closing audio playback device.
+[2025.02.02 03:20:56] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 03:20:58] Audio Info: Closing audio playback device.
+[2025.02.02 03:38:04] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 03:38:06] Audio Info: Closing audio playback device.
+[2025.02.02 03:38:07] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 03:38:09] Audio Info: Closing audio playback device.
+[2025.02.02 03:38:15] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 03:38:17] Audio Info: Closing audio playback device.
+[2025.02.02 03:46:36] RCManager: requesting map
+[2025.02.02 03:46:47] RCManager: Loaded 20 developers, 15 channels
+[2025.02.02 04:11:58] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:12:00] Audio Info: Closing audio playback device.
+[2025.02.02 04:20:17] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:20:19] Audio Info: Closing audio playback device.
+[2025.02.02 04:21:00] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:21:02] Audio Info: Closing audio playback device.
+[2025.02.02 04:22:41] App Info: writing encrypted user settings...
+[2025.02.02 04:22:48] Skipping message, because it is already in blocks!
+[2025.02.02 04:24:38] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:24:40] Audio Info: Closing audio playback device.
+[2025.02.02 04:25:01] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:25:03] Audio Info: Closing audio playback device.
+[2025.02.02 04:25:49] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:25:51] Audio Info: Closing audio playback device.
+[2025.02.02 04:26:27] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:26:29] Audio Info: Closing audio playback device.
+[2025.02.02 04:27:09] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:27:11] Audio Info: Closing audio playback device.
+[2025.02.02 04:29:55] Skipping message, because it is already in blocks!
+[2025.02.02 04:30:09] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:30:11] Audio Info: Closing audio playback device.
+[2025.02.02 04:31:33] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:31:35] Audio Info: Closing audio playback device.
+[2025.02.02 04:34:04] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:34:06] Audio Info: Closing audio playback device.
+[2025.02.02 04:34:06] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:34:08] Audio Info: Closing audio playback device.
+[2025.02.02 04:42:32] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:42:34] Audio Info: Closing audio playback device.
+[2025.02.02 04:46:00] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:46:02] Audio Info: Closing audio playback device.
+[2025.02.02 04:46:36] RCManager: requesting map
+[2025.02.02 04:46:36] RCManager: Loaded 20 developers, 15 channels
+[2025.02.02 04:46:39] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:46:41] Audio Info: Closing audio playback device.
+[2025.02.02 04:46:46] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:46:48] Audio Info: Closing audio playback device.
+[2025.02.02 04:47:18] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:47:20] Audio Info: Closing audio playback device.
+[2025.02.02 04:48:12] Skipping message, because it is already in blocks!
+[2025.02.02 04:48:59] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:49:01] Audio Info: Closing audio playback device.
+[2025.02.02 04:49:15] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:49:17] Audio Info: Closing audio playback device.
+[2025.02.02 04:49:36] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:49:38] Audio Info: Closing audio playback device.
+[2025.02.02 04:49:40] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:49:44] Audio Info: Closing audio playback device.
+[2025.02.02 04:49:51] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:49:53] Audio Info: Closing audio playback device.
+[2025.02.02 04:50:11] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:50:13] Audio Info: Closing audio playback device.
+[2025.02.02 04:50:23] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:50:25] Audio Info: Closing audio playback device.
+[2025.02.02 04:50:55] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:50:57] Audio Info: Closing audio playback device.
+[2025.02.02 04:51:41] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:51:43] Audio Info: Closing audio playback device.
+[2025.02.02 04:51:57] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:51:59] Audio Info: Closing audio playback device.
+[2025.02.02 04:52:12] Skipping message, because it is already in blocks!
+[2025.02.02 04:52:40] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:52:42] Audio Info: Closing audio playback device.
+[2025.02.02 04:53:18] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 04:53:20] Audio Info: Closing audio playback device.
+[2025.02.02 05:00:16] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 05:00:18] Audio Info: Closing audio playback device.
+[2025.02.02 05:00:49] Skipping message, because it is already in blocks!
+[2025.02.02 05:02:47] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 05:02:49] Audio Info: Closing audio playback device.
+[2025.02.02 05:04:43] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 05:04:45] Audio Info: Closing audio playback device.
+[2025.02.02 05:04:46] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.02 05:04:48] Audio Info: Closing audio playback device.

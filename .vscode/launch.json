@@ -1,0 +1,42 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "d:\\Vs Code\\Web Development\\Cosmo\\index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Floating Letters",
+            "file": "d:\\Vs Code\\Web Development\\Cosmo\\FloatingLetters\\float.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Cyberpunk Letter",
+            "file": "d:\\Vs Code\\Web Development\\Cosmo\\augmented-ui-social-media-picture-of-code-thing\\dist\\index.html"
+        },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Icon",
+            "file": "d:\\Vs Code\\Web Development\\Cosmo\\Icon\\icon.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open ImageHolder",
+            "file": "d:\\Vs Code\\Web Development\\Cosmo\\parallax-depth-cards\\dist\\index.html"
+        }
+
+        
+    ]
+}

@@ -78,7 +78,7 @@ Vue.component('card', {
 const app = new Vue({
   el: '#app' });
 
-  let audioctr = 0;
+let audioctr = 0;
 let currentAudio = null; // Track the currently playing audio
 
 document.addEventListener("click", function (event) {

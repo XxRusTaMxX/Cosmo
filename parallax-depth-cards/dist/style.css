@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  margin: 40px 0;
+  
   overflow: hidden;
   font-family: "Raleway";
   font-size: 14px;
@@ -28,7 +28,7 @@ h1 + p, p + p {
 }
 
 .container {
-  padding: 40px 80px;
+  
   display: flex;
   flex-wrap: wrap;
   justify-content: center;

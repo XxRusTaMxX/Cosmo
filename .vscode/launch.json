@@ -34,7 +34,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open ImageHolder",
-            "file": "d:\\Vs Code\\Web Development\\Cosmo\\parallax-depth-cards\\dist\\index.html"
+            "file": "d:\\Vs Code\\Web Development\\Cosmo\\parallax-depth-cards\\dist\\image1.html"
         },
         {
             "type": "chrome",

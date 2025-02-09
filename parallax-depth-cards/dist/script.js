@@ -8,7 +8,7 @@ Vue.component('card', {
       @mouseleave="handleMouseLeave"
       ref="card">
       <div class="card"
-        :style="cardStyle">
+        :style="cardStyle" :data-sound="cardSound">
         <div class="card-bg" :style="[cardBgTransform, cardBgImage]"></div>
         <div class="card-info">
           <slot name="header"></slot>
@@ -20,7 +20,7 @@ Vue.component('card', {
     this.width = this.$refs.card.offsetWidth;
     this.height = this.$refs.card.offsetHeight;
   },
-  props: ['dataImage'],
+  props: ['dataImage', 'dataSound'],
   data: () => ({
     width: 0,
     height: 0,
@@ -41,6 +41,9 @@ Vue.component('card', {
       return {
         transform: `rotateY(${rX}deg) rotateX(${rY}deg)` };
 
+    },
+    cardSound() {
+      return this.dataSound;
     },
     cardBgTransform() {
       const tX = this.mousePX * -40;
@@ -74,3 +77,31 @@ Vue.component('card', {
 
 const app = new Vue({
   el: '#app' });
+
+  let audioctr = 0;
+let currentAudio = null; // Track the currently playing audio
+
+document.addEventListener("click", function (event) {
+  const clickedElement = event.target;
+  console.log("Clicked element:", clickedElement);
+
+  // Check if there's a currently playing audio and stop it
+  if (currentAudio) {
+    currentAudio.pause(); // Stop the current audio
+    currentAudio.currentTime = 0; // Reset the audio to the beginning
+  }
+
+  // Create a new audio element
+  const audio_element = document.createElement("audio");
+  audio_element.src = clickedElement.getAttribute("data-sound");
+  audio_element.id = `audio-${audioctr}`;
+  document.body.appendChild(audio_element);
+
+  // Play the new audio
+  const sound = document.getElementById(`audio-${audioctr}`);
+  audioctr++;
+  sound.play();
+
+  // Update the currently playing audio
+  currentAudio = sound;
+});

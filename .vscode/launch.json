@@ -35,7 +35,14 @@
             "request": "launch",
             "name": "Open ImageHolder",
             "file": "d:\\Vs Code\\Web Development\\Cosmo\\parallax-depth-cards\\dist\\index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Audio",
+            "file": "d:\\Vs Code\\Web Development\\Cosmo\\AudioWeb\\index.html"
         }
+
 
         
     ]
